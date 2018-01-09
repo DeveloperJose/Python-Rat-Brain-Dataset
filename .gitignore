@@ -1,11 +1,10 @@
-# Raw image for Swanson's atlas
+# Raw images
 atlas_sw/
-
-# Raw images for Paxino/Watson's atlas
+atlas_s/
 atlas_pw/
-
-# Testing images
-testing/
+atlas_testing/
+*.png
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
